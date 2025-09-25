@@ -4,30 +4,25 @@
 
 [![🚀 Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-success?logo=streamlit&logoColor=white&color=ff4b4b)](https://classification-and-forecasting-of-water-stress-in-tomato-plant.streamlit.app/)
 
-This project is a **Streamlit web application** that predicts **drought stress in tomato plants** using 🌿 **Bioristor sensor data** and 🤖 **ML & DL models**. It classifies plant status and forecasts water stress conditions to help farmers 👩‍🌾 and researchers monitor tomato plant health efficiently.
+## ✨ Highlights  
+✔️ Forecasts drought stress in tomato plants using 🌿 **Bioristor sensor data**  
+✔️ Implements **Decision Tree, Random Forest, LSTM, and CNN**  
+✔️ Provides **visual insights for farmers & researchers** 👩‍🌾  
+✔️ Interactive **Streamlit web app** for real-time prediction  
 
 ---
 
-## 📌 Project Workflow
+## Project Workflow
 
-1. **Importing necessary libraries**  
-   Libraries such as `TensorFlow`, `Keras`, `Scikit-learn`, `Pandas`, `NumPy`, and `Matplotlib` are used for data processing, modeling, and visualization.
+🔹 📥 Importing libraries & dataset
+🔹 🧹 Data Preprocessing (scaling, cleaning, splitting)
+🔹 🏋️ Model Training (Decision Tree 🌳, Random Forest 🌲, LSTM 🔄, CNN 🖼️)
+🔹 🧪 Evaluation Metrics (accuracy,precision,recall,f1-score)
+🔹 🔮 Prediction (forecast water stress levels 💧)
+🔹 📊 Visualization (charts, plots, comparison)
+🔹 💡 Insights (recommendations for farmers & researchers 🌱)
 
-2. **Loading Tomato Plant Dataset**  
-   The dataset containing sensor measurements is loaded for preprocessing and model training.
-
-3. **Preprocessing**  
-   - Scaling the features  
-   - Splitting the dataset into training and testing sets  
-
-4. **Training & Evaluating the Model**  
-   - Building a deep learning model with Keras/TensorFlow  
-   - Training on the preprocessed dataset  
-   - Evaluating using metrics such as accuracy, confusion matrix, and classification report
-
-5. **Making Predictions**  
-   - Using the trained model to predict water stress conditions  
-   - Insights can be used for irrigation scheduling and monitoring crop health
+---
 
 ## 🛠️ Requirements
 
@@ -59,7 +54,7 @@ Example CSV format:
 ✨ Train and evaluate multiple ML algorithms:
    - 🌳 **Decision Tree**
    - 🌲 **Random Forest**
-   - 🔄 **LSTM (Recurrent Neural Network)**  
+   - 🔄 **LSTM (Long Short Term Memory)**  
    - 🖼️ **CNN (Convolutional Neural Network)**
    - ✨ Interactive **performance metrics** and **visualizations** 📊 (Bar Charts & Tables).
    - ✨ Predict drought status for **new sensor data** in real-time.
@@ -81,16 +76,13 @@ Example CSV format:
 - 🤖 **ML & DL :** DecisionTree, RandomForest, LSTM, CNN
 - 📚 **Libraries:** Pandas, NumPy, Matplotlib ,Scikit-learn,Tensorflow   
 
-### 🔮 Future Improvements
-- 🚀 Integrate real-time IoT sensor feeds for live predictions.  
-- 📈 Enhance time-series forecasting with hybrid **CNN-LSTM models**.  
-- 📊 Add **Power BI/Excel dashboards** for farmer-friendly analytics.  
-- 🔥 Integrate **more advanced deep learning models** like GRU or Transformer for better forecasting.
 
-### 🏆 Results
-- ✅ **LSTM** provided reliable water-stress forecasting for sequential sensor data. 
-- ✅ **CNN** improved feature extraction from high-dimensional signals.
-- 
+## 🏆 Results
+✅ High accuracy achieved across ML/DL models
+✅ LSTM 🔄 & CNN 🖼️ improved performance on time-series forecasting
+✅ Visualization shows clear stress patterns in tomato plants 🌱
+✅ Helps farmers & researchers optimize irrigation 💧
+
 ## 🖼️ App Screenshots
 🏠 Home Page – Upload Dataset & Preprocessing   
 ![Home Page](galary/Screenshot%202025-09-21%20164036.png)
@@ -98,7 +90,17 @@ Example CSV format:
 🔮 Predictions – Drought status for test data  
 ![Prediction Output](galary/Screenshot%202025-09-21%20164132.png)
 
-### 👨‍💻 Author
+---
+
+## 🔮 Future Improvements
+- 🚀 Integrate real-time IoT sensor feeds for live predictions.  
+- 📈 Enhance time-series forecasting with hybrid **CNN-LSTM models**.  
+- 📊 Add **Power BI/Excel dashboards** for farmer-friendly analytics.  
+- 🔥 Integrate **more advanced deep learning models** like GRU or Transformer for better forecasting.
+
+---
+
+## 👨‍💻 Author
 **LOMADA SIVA GANGI REDDY**  
 💡 B.Tech CSE (Data Science), RGMCET (2021–2025)  
 📍 Available for internships & Job offer
@@ -106,6 +108,7 @@ Example CSV format:
 📍 [LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/) | [GitHub](https://github.com/shivareddy2002)
 
 ---
+
 ## 🗂️ Project Workflow Diagram
 
 ```mermaid
@@ -127,7 +130,7 @@ flowchart TD
     D4 --> E4[🧪 Evaluate Accuracy & Metrics]
 
     %% Predictions
-    E1 --> F[🔮 Make Predictions 💧]
+    E1 --> F|Testing[🔮 Make Predictions 💧]
     E2 --> F
     E3 --> F
     E4 --> F
