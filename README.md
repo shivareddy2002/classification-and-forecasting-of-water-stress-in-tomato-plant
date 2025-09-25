@@ -7,13 +7,6 @@
 This project is a **Streamlit web application** that predicts **drought stress in tomato plants** using 🌿 **Bioristor sensor data** and 🤖 **ML & DL models**. It classifies plant status and forecasts water stress conditions to help farmers 👩‍🌾 and researchers monitor tomato plant health efficiently.
 
 ---
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-orange?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24%2B-blue?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.2%2B-blue?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.20%2B-blue?logo=numpy&logoColor=white)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4%2B-orange?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 
 ## 📌 Project Workflow
 
@@ -36,8 +29,17 @@ This project is a **Streamlit web application** that predicts **drought stress i
    - Using the trained model to predict water stress conditions  
    - Insights can be used for irrigation scheduling and monitoring crop health
 
----
+## 🛠️ Requirements
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-orange?logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24%2B-blue?logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.2%2B-blue?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.20%2B-blue?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4%2B-orange?logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+
+---
 ## 📊 Dataset
 The application works with **Bioristor sensor data** collected from tomato plants.  
 Example CSV format:
@@ -72,17 +74,7 @@ Example CSV format:
 | 🖼️ CNN                       | Convolutional neural network for feature extraction from sensor patterns. |
 
 ---
-## 🛠️ Requirements
 
-- Python
-- Streamlit
-- TensorFlow / Keras
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-
----
 ## 🛠️ Tech Stack
 - 🐍 **Programming Language:** Python 
 - 🎯 **Frontend:** Streamlit  
@@ -115,7 +107,6 @@ Example CSV format:
 
 ---
 
----
 
 ### 2️⃣ **Model Descriptions & Comparison Table**  
 Add a table explaining each algorithm for clarity:
