@@ -113,29 +113,39 @@ Example CSV format:
 
 ```mermaid
 flowchart TD
-    %% Step 1: Importing Libraries
-    A[🔵 Step 1: 📥 Import Libraries] --> B[🟢 Step 2: 🧹 Data Preparation]
+    %% Dataset & Preprocessing
+    A[📥 Load Bioristor Data] --> B[🧹 Data Preprocessing]
+    B --> C{🔀 Split Data: Train/Test}
 
-    %% Step 2: Data Preparation
-    B --> C[🟣 Step 3: 🏋️ Model Training & Evaluation]
+    %% ML & DL Models
+    C -->|🏋️ Train| D1[🌳 Decision Tree]
+    C -->|🏋️ Train| D2[🌲 Random Forest]
+    C -->|🏋️ Train| D3[🔄 LSTM -Time-Series]
+    C -->|🏋️ Train| D4[🖼️ CNN -Feature Extraction]
 
-    %% Step 3: Models
-    C --> C1[🌳 Decision Tree]
-    C --> C2[🌲 Random Forest]
-    C --> C3[🔄 LSTM]
-    C --> C4[🖼️ CNN]
+    %% Model Evaluation
+    D1 --> E1[🧪 Evaluate Accuracy & Metrics]
+    D2 --> E2[🧪 Evaluate Accuracy & Metrics]
+    D3 --> E3[🧪 Evaluate Accuracy & Metrics]
+    D4 --> E4[🧪 Evaluate Accuracy & Metrics]
 
-    %% Step 4: Predictions
-    C1 --> D[🟠 Step 4: 🔮 Predictions]
-    C2 --> D
-    C3 --> D
-    C4 --> D
+    %% Predictions
+    F[🔮 Make Predictions 💧]
+    E1 -->|Testing| F
+    E2 -->|Testing| F
+    E3 -->|Testing| F
+    E4 -->|Testing| F
 
-    %% Step 5: Visualization
-    D --> E[🔺 Step 5: 📊 Visualization]
+    %% Results Visualization & Insights
+    F --> G[📊 Visualize Results & Metrics]
+    G --> H[💡 Insights for Farmers & Researchers 🌱]
 
-    %% Step 6: Insights
-    E --> F[🟡 Step 6: 💡 Insights & Recommendations 🌱]
+    %% Styling (optional for color differentiation)
+    style D1 fill:#FFEB3B,stroke:#000,stroke-width:1px
+    style D2 fill:#4CAF50,stroke:#000,stroke-width:1px
+    style D3 fill:#2196F3,stroke:#000,stroke-width:1px
+    style D4 fill:#FF5722,stroke:#000,stroke-width:1px
+    style F fill:#9C27B0,stroke:#000,stroke-width:1px
 
     %% Styling for Color-Coding
     style A fill:#42A5F5,stroke:#0D47A1,stroke-width:2px,color:#fff
@@ -145,7 +155,5 @@ flowchart TD
     style C2 fill:#4CAF50,stroke:#000,stroke-width:1px
     style C3 fill:#2196F3,stroke:#000,stroke-width:1px
     style C4 fill:#FF5722,stroke:#000,stroke-width:1px
-    style D fill:#FF7043,stroke:#BF360C,stroke-width:2px,color:#fff
     style E fill:#F44336,stroke:#B71C1C,stroke-width:2px,color:#fff
-    style F fill:#FFD54F,stroke:#F57F17,stroke-width:2px,color:#000
 
