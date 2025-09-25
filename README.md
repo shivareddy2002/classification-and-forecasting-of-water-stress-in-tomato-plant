@@ -106,4 +106,39 @@ Example CSV format:
 📍 [LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/) | [GitHub](https://github.com/shivareddy2002)
 
 ---
+## 🗂️ Project Workflow Diagram
 
+```mermaid
+flowchart TD
+    %% Dataset & Preprocessing
+    A[📥 Load Dataset CSV] --> B[🧹 Data Preprocessing]
+    B --> C{🔀 Split Data: Train/Test}
+
+    %% ML & DL Models
+    C -->|🏋️ Train| D1[🌳 Decision Tree]
+    C -->|🏋️ Train| D2[🌲 Random Forest]
+    C -->|🏋️ Train| D3[🔄 LSTM (Time-Series)]
+    C -->|🏋️ Train| D4[🖼️ CNN (Feature Extraction)]
+
+    %% Model Evaluation
+    D1 --> E1[🧪 Evaluate Accuracy & Metrics]
+    D2 --> E2[🧪 Evaluate Accuracy & Metrics]
+    D3 --> E3[🧪 Evaluate Accuracy & Metrics]
+    D4 --> E4[🧪 Evaluate Accuracy & Metrics]
+
+    %% Predictions
+    E1 --> F[🔮 Make Predictions 💧]
+    E2 --> F
+    E3 --> F
+    E4 --> F
+
+    %% Results Visualization & Insights
+    F --> G[📊 Visualize Results & Metrics]
+    G --> H[💡 Insights for Farmers & Researchers 🌱]
+
+    %% Styling (optional for color differentiation)
+    style D1 fill:#FFEB3B,stroke:#000,stroke-width:1px
+    style D2 fill:#4CAF50,stroke:#000,stroke-width:1px
+    style D3 fill:#2196F3,stroke:#000,stroke-width:1px
+    style D4 fill:#FF5722,stroke:#000,stroke-width:1px
+    style F fill:#9C27B0,stroke:#000,stroke-width:1px
