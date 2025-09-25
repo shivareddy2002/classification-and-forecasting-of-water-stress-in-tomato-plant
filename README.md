@@ -117,8 +117,8 @@ flowchart TD
     %% ML & DL Models
     C -->|🏋️ Train| D1[🌳 Decision Tree]
     C -->|🏋️ Train| D2[🌲 Random Forest]
-    C -->|🏋️ Train| D3[🔄 LSTM (Time-Series)]
-    C -->|🏋️ Train| D4[🖼️ CNN (Feature Extraction)]
+    C -->|🏋️ Train| D3[🔄 LSTM -Time-Series]
+    C -->|🏋️ Train| D4[🖼️ CNN -Feature Extraction]
 
     %% Model Evaluation
     D1 --> E1[🧪 Evaluate Accuracy & Metrics]
