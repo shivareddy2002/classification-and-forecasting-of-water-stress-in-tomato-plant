@@ -146,8 +146,6 @@ flowchart TD
     style D3 fill:#2196F3,stroke:#000,stroke-width:1px
     style D4 fill:#FF5722,stroke:#000,stroke-width:1px
     style F fill:#9C27B0,stroke:#000,stroke-width:1px
-
-    %% Styling for Color-Coding
     style A fill:#42A5F5,stroke:#0D47A1,stroke-width:2px,color:#fff
     style B fill:#66BB6A,stroke:#1B5E20,stroke-width:2px,color:#fff
     style C fill:#AB47BC,stroke:#4A148C,stroke-width:2px,color:#fff
