@@ -114,7 +114,7 @@ Example CSV format:
 ```mermaid
 flowchart TD
     %% Dataset & Preprocessing
-    A[📥 Load Dataset CSV] --> B[🧹 Data Preprocessing]
+    A[📥 Load Bioristor Data] --> B[🧹 Data Preprocessing]
     B --> C{🔀 Split Data: Train/Test}
 
     %% ML & DL Models
