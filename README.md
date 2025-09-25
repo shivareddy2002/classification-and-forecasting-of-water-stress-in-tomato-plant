@@ -149,9 +149,5 @@ flowchart TD
     style A fill:#42A5F5,stroke:#0D47A1,stroke-width:2px,color:#fff
     style B fill:#66BB6A,stroke:#1B5E20,stroke-width:2px,color:#fff
     style C fill:#AB47BC,stroke:#4A148C,stroke-width:2px,color:#fff
-    style C1 fill:#FFEB3B,stroke:#000,stroke-width:1px
-    style C2 fill:#4CAF50,stroke:#000,stroke-width:1px
-    style C3 fill:#2196F3,stroke:#000,stroke-width:1px
-    style C4 fill:#FF5722,stroke:#000,stroke-width:1px
     style E fill:#F44336,stroke:#B71C1C,stroke-width:2px,color:#fff
 
