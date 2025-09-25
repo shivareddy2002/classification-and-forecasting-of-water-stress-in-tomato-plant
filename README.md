@@ -93,9 +93,9 @@ Example CSV format:
 - 
 ## 🖼️ App Screenshots
 🏠 Home Page – Upload Dataset & Preprocessing   
-🔮 Predictions – Drought status for test data  
-
 ![Home Page](galary/Screenshot%202025-09-21%20164036.png)
+
+🔮 Predictions – Drought status for test data  
 ![Prediction Output](galary/Screenshot%202025-09-21%20164132.png)
 
 ### 👨‍💻 Author
@@ -107,15 +107,3 @@ Example CSV format:
 
 ---
 
-
-### 2️⃣ **Model Descriptions & Comparison Table**  
-Add a table explaining each algorithm for clarity:
-
-```markdown
-## 📈 Machine Learning & Deep Learning Models
-| 🌟 Model                    | ⚡ Description                                  |
-|------------------------------|------------------------------------------------|
-| 🌳 Decision Tree (Gini/Entropy) | Simple classifier based on tree splitting rules. |
-| 🌲 Random Forest            | Ensemble of decision trees for higher accuracy. |
-| 🔄 LSTM                     | Recurrent neural network for sequential/time-series sensor data. |
-| 🖼️ CNN                      | Convolutional neural network for feature extraction from sensor patterns. |
