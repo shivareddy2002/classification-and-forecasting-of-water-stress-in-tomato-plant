@@ -88,7 +88,7 @@ Example CSV format:
 ## 📈 Machine Learning & Deep Learning Models
 | 🌟 Model                     | ⚡ Description                                   |
 |-------------------------------|-------------------------------------------------|
-| 🌳 Decision Tree (Gini/Entropy) | Simple classifier based on tree splitting rules. |
+| 🌳 Decision Tree  | Simple classifier based on tree splitting rules. |
 | 🌲 Random Forest             | Ensemble of decision trees for higher accuracy. |
 | 🔄 LSTM                      | Recurrent neural network for sequential/time-series sensor data. |
 | 🖼️ CNN                       | Convolutional neural network for feature extraction from sensor patterns. |
@@ -101,12 +101,12 @@ Example CSV format:
 - 🤖 **ML & DL :** DecisionTree, RandomForest, LSTM, CNN
 - 📚 **Libraries:** Pandas, NumPy, Matplotlib ,Scikit-learn,Tensorflow   
 
+## 🏆 Results  
 
-## 🏆 Results
-✅ High accuracy achieved across ML/DL models
-✅ LSTM 🔄 & CNN 🖼️ improved performance on time-series forecasting
-✅ Visualization shows clear stress patterns in tomato plants 🌱
-✅ Helps farmers & researchers optimize irrigation 💧
+- ✅ High accuracy achieved across ML/DL models  
+- ✅ LSTM 🔄 & CNN 🖼️ improved performance on time-series forecasting  
+- ✅ Visualization shows clear stress patterns in tomato plants 🌱  
+- ✅ Helps farmers & researchers optimize irrigation 💧  
 
 ## 🖼️ App Screenshots
 🏠 Home Page – Upload Dataset & Preprocessing   
@@ -126,11 +126,11 @@ Example CSV format:
 ---
 
 ## 👨‍💻 Author
-**LOMADA SIVA GANGI REDDY**  
-💡 B.Tech CSE (Data Science), RGMCET (2021–2025)  
-📍 Available for internships & Job offer
-💌 Contact Me : 9346493592
-📍 [LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/) | [GitHub](https://github.com/shivareddy2002)
+- **LOMADA SIVA GANGI REDDY**  
+- 💡 B.Tech CSE (Data Science), RGMCET (2021–2025)  
+- 📍 Available for internships & Job offer 
+- 💌 Contact Me : 9346493592
+- 📍 [LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/) | [GitHub](https://github.com/shivareddy2002)
 
 ---
 
