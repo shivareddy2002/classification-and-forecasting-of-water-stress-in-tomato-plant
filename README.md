@@ -2,7 +2,7 @@
 # 🌱 Classification and Forecasting of Water Stress in Tomato Plant  
 ### 🔬 Predicting Water Stress Using Bioristor Data and Deep Learning Model (Streamlit Web App)
 
-[![🚀 Streamlit App](https://img.shields.io/badge/-Project%200DEMO-success?logo=streamlit&logoColor=white&color=ff4b4b)](https://classification-and-forecasting-of-water-stress-in-tomato-plant.streamlit.app/)
+[![🚀 Streamlit App](https://img.shields.io/badge/-Project%80DEMO-success?logo=streamlit&logoColor=white&color=ff4b4b)](https://classification-and-forecasting-of-water-stress-in-tomato-plant.streamlit.app/)
 
 
 ## ✨ Highlights  
