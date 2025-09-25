@@ -132,9 +132,9 @@ flowchart TD
     %% Predictions
     F[🔮 Make Predictions 💧]
     E1 -->|Testing| F
-    E2 --> F
-    E3 --> F
-    E4 --> F
+    E2 -->|Testing| F
+    E3 -->|Testing| F
+    E4 -->|Testing| F
 
     %% Results Visualization & Insights
     F --> G[📊 Visualize Results & Metrics]
