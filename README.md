@@ -1,7 +1,9 @@
 
 # 🌱 Classification and Forecasting of Water Stress in Tomato Plant  
-### 🔬 Predicting Water Stress Using Bioristor Data and Deep Learning Model (Streamlit Web App)
 
+This project predicts and forecasts water stress in tomato plants using Bioristor sensor data. 🌿It combines Decision Tree, Random Forest, LSTM, and CNN for accurate classification and forecasting. 🤖 An interactive Streamlit web app provides visual insights for farmers and researchers. 👩‍🌾
+
+## 🔗 Live Demo  
 <p align="center">
   <a href="https://classification-and-forecasting-of-water-stress-in-tomato-plant.streamlit.app/">
     <img src="https://img.shields.io/badge/-Project%20DEMO-success?logo=streamlit&logoColor=white&color=ff4b4b&style=for-the-badge" alt="Streamlit App" height="50">
