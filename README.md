@@ -114,10 +114,10 @@ Example CSV format:
 - ✅ Helps farmers & researchers optimize irrigation 💧  
 
 ## 🖼️ Web App Screenshots
-🏠 Home Page – Upload Dataset & Preprocessing   
+🏠 Home Page – Upload New Data & Preprocessing   
 ![Home Page](galary/Screenshot%202025-09-21%20164036.png)
 
-🔮 Predictions – Drought status for test data  
+🔮 Predictions – Drought status for New data  
 ![Prediction Output](galary/Screenshot%202025-09-21%20164132.png)
 
 ---
