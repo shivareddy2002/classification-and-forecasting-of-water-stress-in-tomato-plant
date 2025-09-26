@@ -86,8 +86,8 @@ Example CSV format:
    - 🌲 **Random Forest**
    - 🔄 **LSTM (Long Short Term Memory)**  
    - 🖼️ **CNN (Convolutional Neural Network)**
-   - ✨ Interactive **performance metrics** and **visualizations** 📊 (Bar Charts & Tables).
-   - ✨ Predict drought status for **new sensor data** in real-time.
+✨ Interactive **performance metrics** and **visualizations** 📊 (Bar Charts & Tables).
+✨ Predict drought status for **new sensor data** in real-time.
 
 ---
 ## 📈 Machine Learning & Deep Learning Models
