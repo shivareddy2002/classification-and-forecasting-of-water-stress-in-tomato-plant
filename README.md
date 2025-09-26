@@ -9,7 +9,7 @@
 </p>
 
 
-## ✨ Highlights  
+## ✨ Key Highlights  
 ✔️ Forecasts drought stress in tomato plants using 🌿 **Bioristor sensor data**  
 ✔️ Implements **Decision Tree, Random Forest, LSTM, and CNN**  
 ✔️ Provides **visual insights for farmers & researchers** 👩‍🌾  
@@ -112,7 +112,7 @@ Example CSV format:
 - ✅ Visualization shows clear stress patterns in tomato plants 🌱  
 - ✅ Helps farmers & researchers optimize irrigation 💧  
 
-## 🖼️ App Screenshots
+## 🖼️ Web App Screenshots
 🏠 Home Page – Upload Dataset & Preprocessing   
 ![Home Page](galary/Screenshot%202025-09-21%20164036.png)
 
@@ -129,12 +129,16 @@ Example CSV format:
 
 ---
 
-## 👨‍💻 Author
-- **LOMADA SIVA GANGI REDDY**  
-- 💡 B.Tech CSE (Data Science), RGMCET (2021–2025)  
-- 📍 Available for internships & Job offer 
-- 💌 Contact Me : 9346493592
-- 📍 [LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/) | [GitHub](https://github.com/shivareddy2002)
+## 👨‍💻 Author  
+
+**Lomada Siva Gangi Reddy**  
+- 🎓 B.Tech CSE (Data Science), RGMCET (2021–2025)  
+- 💡 Interests: Python | Machine Learning | Deep Learning | Data Science  
+- 📍 Open to **Internships & Job Offers**  
+
+📬 **Contact Me**:  
+- 📞 9346493592  
+- [💼 LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/) [🌐 GitHub](https://github.com/shivareddy2002)  
 
 ---
 
