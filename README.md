@@ -8,6 +8,7 @@
   </a>
 </p>
 
+---
 
 ## ✨ Key Highlights  
 ✔️ Forecasts drought stress in tomato plants using 🌿 **Bioristor sensor data**  
