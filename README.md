@@ -107,7 +107,6 @@ Example CSV format:
 - 📚 **Libraries:** Pandas, NumPy, Matplotlib ,Scikit-learn,Tensorflow   
 
 ## 🏆 Results  
-
 - ✅ High accuracy achieved across ML/DL models  
 - ✅ LSTM 🔄 & CNN 🖼️ improved performance on time-series forecasting  
 - ✅ Visualization shows clear stress patterns in tomato plants 🌱  
