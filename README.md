@@ -1,4 +1,3 @@
-
 # 🌱 Classification and Forecasting of Water Stress in Tomato Plant  
 
 This project predicts and forecasts water stress in tomato plants using Bioristor sensor data. 🌿It combines Decision Tree, Random Forest, LSTM, and CNN for accurate classification and forecasting. 🤖 An interactive Streamlit web app provides visual insights for farmers and researchers. 👩‍🌾
