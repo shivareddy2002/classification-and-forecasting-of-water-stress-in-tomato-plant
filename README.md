@@ -1,4 +1,6 @@
-# 🌱 Classification and Forecasting of Water Stress in Tomato Plant  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56ab2f,100:a8e063&height=180&section=header&text=🌱%20Classification%20and%20Forecasting%20of%20Water%20Stress%20in%20Tomato%20Plant&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 This project predicts and forecasts water stress in tomato plants using Bioristor sensor data. 🌿It combines Decision Tree, Random Forest, LSTM, and CNN for accurate classification and forecasting. 🤖 An interactive Streamlit web app provides visual insights for farmers and researchers. 👩‍🌾
 
@@ -132,18 +134,6 @@ Example CSV format:
 
 ---
 
-## 👨‍💻 Author  
-
-**Lomada Siva Gangi Reddy**  
-- 🎓 B.Tech CSE (Data Science), RGMCET (2021–2025)  
-- 💡 Interests: Python | Machine Learning | Deep Learning | Data Science  
-- 📍 Open to **Internships & Job Offers**  
-
-📬 **Contact Me**:  
-- 📞 9346493592  
-- [💼 LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/) [🌐 GitHub](https://github.com/shivareddy2002)  
-
----
 
 ## 🗂️ Project Workflow Diagram
 
@@ -197,3 +187,22 @@ flowchart TD
     style F fill:#9C27B0,stroke:#4A148C,stroke-width:2px,color:#fff
     style G fill:#F44336,stroke:#B71C1C,stroke-width:2px,color:#fff
     style H fill:#FFD54F,stroke:#F57F17,stroke-width:2px,color:#000
+```
+## 👨‍💻 Author  
+
+**Lomada Siva Gangi Reddy**  
+- 🎓 B.Tech CSE (Data Science), RGMCET (2021–2025)  
+- 💡 Interests: Python | Machine Learning | Deep Learning | Data Science  
+- 📍 Open to **Internships & Job Offers**
+
+ **Contact Me**:  
+
+- 📧 **Email**: lomadasivagangireddy3@gmail.com  
+- 📞 **Phone**: 9346493592  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lomada-siva-gangi-reddy-a64197280/)  🌐 [GitHub](https://github.com/shivareddy2002)  🚀 [Portfolio](https://lsgr-portfolio-pulse.lovable.app/)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f9c74f,100:ff4b4b&height=120&section=footer"/>
+</p>
